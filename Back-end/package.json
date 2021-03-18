@@ -9,6 +9,7 @@
   "author": "Julieta Ramos ayon",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "ibm-watson": "^6.0.3"
   }
