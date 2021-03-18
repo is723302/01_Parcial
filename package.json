@@ -1,0 +1,23 @@
+{
+  "name": "01_parcial",
+  "version": "1.0.0",
+  "description": "Evaluacion parcial 1 de cloud computing p2021",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is723302/01_Parcial.git"
+  },
+  "author": "Julieta Ramos Ayon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/is723302/01_Parcial/issues"
+  },
+  "homepage": "https://github.com/is723302/01_Parcial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
