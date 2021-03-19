@@ -1,0 +1,7 @@
+---
+applications:
+- name: backend-app-julieta
+  buildpacks:
+    - sdk-for-nodejs
+  command: npm run start
+  memory: 256M
